@@ -6,13 +6,16 @@ Me chamo João Pedro Lopes, tenho 19 anos e estou no 5º semestre de Análise e 
 
 O portfolio a seguir mostra o trabalho realizado com metodologia ágil no 1º semestre.
 
-### Contatos
+# Contatos
 Linkedin: https://www.linkedin.com/in/jo%C3%A3o-pedro-lopes-de-rezende-785176236/
 <br>
 GitHub: https://github.com/joaolrez
 <br>
+<br>
+<br>
 
-## Projeto 2022 - 1
+# Meus Projetos
+### Projeto 2022 - 1
 
 O projeto do primeiro semestre de 2022 foi proposto por um cliente interno da faculdade, nesse projeto o problema projetado era a da criação de um sistema WEB que tivesse como foco o cadastro e a divulgação de novas vagas de emprego para o mercado de trabalho
 abrangendo todas as áreas mas tendo foco as de TI, o site deveria ter facil uso para atender as pessoas de diferentes faixa etária e que trabalham em diferentes áreas, disponibilizando a elas diiferentes informações como conhecimentos e habilidades necessárias.
@@ -38,6 +41,8 @@ Os principais conhecimentos requisitados nesse trabalho eram:
 
 ### Contribuições Pessoais
   Nesse projeto pude auxiliar como desenvolvedor, sendo participativo e opinando nas diferentes ideias e rumos que o grupo teve em suas reuniões, auxiliar o desenvolvimento tanto front-end quanto back-end principalmente na página de vagas, onde era possivel conferir as habilidades, conhecimentos e outras informações necessárias para a vaga, também na parte visual para que o usuário entendesse rapidamente tudo que era mostrado
+
+# Meus Principais Conhecimentos
 
 ### Hard Skills
 - HTML/CSS
