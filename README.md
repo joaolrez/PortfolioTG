@@ -1,6 +1,6 @@
 # Portfolio TG - João Pedro Lopes de Rezende
 
-## Introdução
+# Introdução
 
 Me chamo João Pedro Lopes, tenho 19 anos e estou no 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC de São José dos Campos - Prof Jessen Vidal.
 
@@ -36,8 +36,8 @@ Os principais conhecimentos requisitados nesse trabalho eram:
 - Canvas para fazer todo o protótipo visual do site
 
 
-## Final do Projeto
-### Resultado
+### Final do Projeto
+<h4> Resultado </h4>
   Ao final do primeiro semestre, o grupo foi capaz de entregar o "DispVag", com a colaboração do grupo de desenvolvedores e o cliente interno, no DispVag o cliente encontrava tudo que pedia como requisito que ia da parte visual com uma interface simples para todos os usuários, que permitia o usuário claramente buscar o que era de interesse, com Vagas, Métricas, Cursos e Localizações. A apresentação do produto foi feita primeiramente de forma interna para o cliente que aprovou o resultado, e em seguida o produto foi apresentado na feira de soluções da FATEC, onde foi apresentado para diversas empresas e todos os professores, sendo aprovado como uma ferramenta que era capaz de auxiliar e cumprir tudo que havia sido pedido.
 
 ### Contribuições Pessoais
