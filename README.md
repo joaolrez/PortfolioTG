@@ -18,7 +18,7 @@ GitHub: https://github.com/joaolrez
 # Meus Projetos
 ### Projeto 2022 - 1
 
-O projeto do primeiro semestre de 2022 foi proposto por um cliente interno da faculdade, nesse projeto o problema projetado era a da criação de um sistema WEB que tivesse como foco o cadastro e a divulgação de novas vagas de emprego para o mercado de trabalho
+O projeto do primeiro semestre de 2022 foi proposto por um cliente interno da faculdade, nesse projeto o problema projetado era a da criação de um aplicativo WEB que tivesse como foco o cadastro e a divulgação de novas vagas de emprego para o mercado de trabalho
 abrangendo todas as áreas mas tendo foco as de TI, o site deveria ter facil uso para atender as pessoas de diferentes faixa etária e que trabalham em diferentes áreas, disponibilizando a elas diiferentes informações como conhecimentos e habilidades necessárias.
 
 **O projeto está todo disponível nesse [GitHub](https://github.com/joaolrez/DispVag)**
