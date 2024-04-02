@@ -4,7 +4,7 @@
 
 Me chamo João Pedro Lopes, tenho 19 anos e estou no 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC de São José dos Campos - Prof Jessen Vidal.
 
-O portfolio a seguir mostra o trabalho realizado com metodologia ágil no 1º semestre, o projeto é feito para uma empresa a cada semestre e busca dar uma experiência mais realista para os alunos com a experiência de um trabalho profissional e ajudar com soluções para problemas do dia-a-dia, o projeto estimula o trabalho em grupo e a autonomia de cada aluno.
+O portfolio a seguir mostra o trabalho realizado a partir de metodologia agil apresentada no curso, o projeto é feito para uma empresa a cada semestre e busca dar uma experiência mais realista para os alunos com a experiência de um trabalho profissional e ajudar com soluções para problemas do dia-a-dia, o projeto estimula o trabalho em grupo e a autonomia de cada aluno.
 
 
 # Contatos
